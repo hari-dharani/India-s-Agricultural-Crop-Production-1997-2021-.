@@ -1,0 +1,82 @@
+State,District,Crop,Year,Season,Area,Area Units,Production,Production Units,Yield
+Andaman and Nicobar Islands,NICOBARS,Arecanut,2001-02,Kharif,1254,Hectare,2061,Tonnes,1.64354067
+Andaman and Nicobar Islands,NICOBARS,Arecanut,2002-03,Whole Year,1258,Hectare,2083,Tonnes,1.655802862
+Andaman and Nicobar Islands,NICOBARS,Arecanut,2003-04,Whole Year,1261,Hectare,1525,Tonnes,1.209357653
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Arecanut,2001-02,Kharif,3100,Hectare,5239,Tonnes,1.69
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Arecanut,2002-03,Whole Year,3105,Hectare,5267,Tonnes,1.696296296
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Arecanut,2003-04,Whole Year,3118,Hectare,5182,Tonnes,1.661962797
+Andaman and Nicobar Islands,NICOBARS,Banana,2002-03,Whole Year,213,Hectare,1278,Tonnes,6
+Andaman and Nicobar Islands,NICOBARS,Banana,2003-04,Whole Year,266,Hectare,1763,Tonnes,6.627819549
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Banana,2002-03,Whole Year,1524,Hectare,10882,Tonnes,7.140419948
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Banana,2003-04,Whole Year,1530,Hectare,11558,Tonnes,7.554248366
+Andaman and Nicobar Islands,NICOBARS,Black pepper,2002-03,Whole Year,63,Hectare,13.5,Tonnes,0.214285714
+Andaman and Nicobar Islands,NICOBARS,Black pepper,2003-04,Whole Year,75.5,Hectare,15.86,Tonnes,0.210066225
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Black pepper,2002-03,Whole Year,487,Hectare,102.5,Tonnes,0.210472279
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Black pepper,2003-04,Whole Year,497,Hectare,104.37,Tonnes,0.21
+Andaman and Nicobar Islands,NICOBARS,Cashewnut,2001-02,Whole Year,719,Hectare,192,Tonnes,0.267037552
+Andaman and Nicobar Islands,NICOBARS,Cashewnut,2002-03,Whole Year,719,Hectare,208,Tonnes,0.289290682
+Andaman and Nicobar Islands,NICOBARS,Cashewnut,2003-04,Whole Year,717,Hectare,208.5,Tonnes,0.290794979
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Cashewnut,2001-02,Whole Year,81,Hectare,33,Tonnes,0.407407407
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Cashewnut,2002-03,Whole Year,81,Hectare,24,Tonnes,0.296296296
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Cashewnut,2003-04,Whole Year,116.5,Hectare,26.14,Tonnes,0.224377682
+Andaman and Nicobar Islands,NICOBARS,Coconut,2001-02,Whole Year,18190,Hectare,64430000,Nuts,3542.056075
+Andaman and Nicobar Islands,NICOBARS,Coconut,2002-03,Whole Year,18240,Hectare,67490000,Nuts,3700.109649
+Andaman and Nicobar Islands,NICOBARS,Coconut,2003-04,Whole Year,18284.74,Hectare,68580000,Nuts,3750.66859
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Coconut,2001-02,Whole Year,7015,Hectare,25250000,Nuts,3599.429793
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Coconut,2002-03,Whole Year,7060,Hectare,26830000,Nuts,3800.283286
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Coconut,2003-04,Whole Year,7110,Hectare,26660000,Nuts,3749.648383
+Andaman and Nicobar Islands,NICOBARS,Dry chillies,2002-03,Whole Year,413,Hectare,28.8,Tonnes,0.069733656
+Andaman and Nicobar Islands,NICOBARS,Dry chillies,2003-04,Whole Year,60,Hectare,102,Tonnes,1.7
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Dry chillies,2002-03,Whole Year,239,Hectare,20.9,Tonnes,0.087447699
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Dry chillies,2003-04,Whole Year,340,Hectare,578,Tonnes,1.7
+Andaman and Nicobar Islands,NICOBARS,Ginger,2001-02,Whole Year,46,Hectare,100,Tonnes,2.173913043
+Andaman and Nicobar Islands,NICOBARS,Ginger,2002-03,Whole Year,47.3,Hectare,133,Tonnes,2.811839323
+Andaman and Nicobar Islands,NICOBARS,Ginger,2003-04,Whole Year,102,Hectare,326.4,Tonnes,3.2
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Ginger,2001-02,Whole Year,344,Hectare,1124,Tonnes,3.26744186
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Ginger,2002-03,Whole Year,352,Hectare,1145,Tonnes,3.252840909
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Ginger,2003-04,Whole Year,406,Hectare,1299.2,Tonnes,3.2
+Andaman and Nicobar Islands,NICOBARS,Other Kharif pulses,2001-02,Kharif,2,Hectare,1,Tonnes,0.5
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Other Kharif pulses,2001-02,Kharif,418,Hectare,199,Tonnes,0.476076555
+Andaman and Nicobar Islands,NICOBARS,other oilseeds,2003-04,Whole Year,4.2,Hectare,0.3,Tonnes,0.071428571
+Andaman and Nicobar Islands,SOUTH ANDAMANS,other oilseeds,2002-03,Whole Year,85.1,Hectare,40.31,Tonnes,0.473678026
+Andaman and Nicobar Islands,SOUTH ANDAMANS,other oilseeds,2003-04,Whole Year,82.09,Hectare,35.51,Tonnes,0.432574004
+Andaman and Nicobar Islands,NICOBARS,Rice,2001-02,Kharif,83,Hectare,300,Tonnes,3.614457831
+Andaman and Nicobar Islands,NICOBARS,Rice,2002-03,Kharif,189.2,Hectare,510.84,Tonnes,2.7
+Andaman and Nicobar Islands,NICOBARS,Rice,2003-04,Kharif,52,Hectare,90.17,Tonnes,1.734038462
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Rice,2001-02,Kharif,9718,Hectare,27033,Tonnes,2.781745215
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Rice,2002-03,Kharif,10695.8,Hectare,31600.82,Tonnes,2.954507377
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Rice,2003-04,Kharif,10509.37,Hectare,30760.698,Tonnes,2.926978306
+Andaman and Nicobar Islands,NICOBARS,Sugarcane,2001-02,Whole Year,1,Hectare,1,Tonnes,1
+Andaman and Nicobar Islands,NICOBARS,Sugarcane,2002-03,Whole Year,5,Hectare,40,Tonnes,8
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Sugarcane,2001-02,Whole Year,81,Hectare,2379,Tonnes,29.37037037
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Sugarcane,2002-03,Whole Year,455,Hectare,13760,Tonnes,30.24175824
+Andaman and Nicobar Islands,SOUTH ANDAMANS,Sugarcane,2003-04,Whole Year,268,Hectare,2879.52,Tonnes,10.74447761
+Andaman and Nicobar Islands,NICOBARS,Sweet potato,2001-02,Whole Year,11,Hectare,33,Tonnes,3
+Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,Sweet potato,2001-02,Whole Year,100,Hectare,5,Tonnes,0.05
+Andhra Pradesh,ANANTAPUR,Arecanut,2001-02,Whole Year,257,Hectare,430,Tonnes,1.673151751
+Andhra Pradesh,ANANTAPUR,Arecanut,2002-03,Whole Year,263,Hectare,379,Tonnes,1.441064639
+Andhra Pradesh,ANANTAPUR,Arecanut,2003-04,Whole Year,266,Hectare,189,Tonnes,0.710526316
+Andhra Pradesh,EAST GODAVARI,Arecanut,2001-02,Whole Year,7,Hectare,12,Tonnes,1.714285714
+Andhra Pradesh,EAST GODAVARI,Arecanut,2002-03,Whole Year,7,Hectare,10,Tonnes,1.428571429
+Andhra Pradesh,EAST GODAVARI,Arecanut,2003-04,Whole Year,6,Hectare,4,Tonnes,0.666666667
+Andhra Pradesh,KRISHNA,Arecanut,2001-02,Whole Year,4,Hectare,7,Tonnes,1.75
+Andhra Pradesh,KRISHNA,Arecanut,2002-03,Whole Year,18,Hectare,26,Tonnes,1.444444444
+Andhra Pradesh,KRISHNA,Arecanut,2003-04,Whole Year,18,Hectare,13,Tonnes,0.722222222
+Andhra Pradesh,VIZIANAGARAM,Arecanut,2002-03,Whole Year,8,Hectare,12,Tonnes,1.5
+Andhra Pradesh,VIZIANAGARAM,Arecanut,2003-04,Whole Year,12,Hectare,9,Tonnes,0.75
+Andhra Pradesh,WEST GODAVARI,Arecanut,2003-04,Whole Year,9,Hectare,6,Tonnes,0.666666667
+Andhra Pradesh,ADILABAD,Arhar/Tur,2001-02,Kharif,38438,Hectare,18027,Tonnes,0.468989021
+Andhra Pradesh,ADILABAD,Arhar/Tur,2001-02,Rabi,652,Hectare,306,Tonnes,0.469325153
+Andhra Pradesh,ADILABAD,Arhar/Tur,2002-03,Kharif,40771,Hectare,9989,Tonnes,0.245002575
+Andhra Pradesh,ADILABAD,Arhar/Tur,2002-03,Rabi,945,Hectare,232,Tonnes,0.245502646
+Andhra Pradesh,ADILABAD,Arhar/Tur,2003-04,Kharif,38393,Hectare,13284,Tonnes,0.346000573
+Andhra Pradesh,ADILABAD,Arhar/Tur,2003-04,Rabi,1351,Hectare,467,Tonnes,0.345669874
+Andhra Pradesh,ANANTAPUR,Arhar/Tur,2001-02,Kharif,27942,Hectare,7628,Tonnes,0.272994059
+Andhra Pradesh,ANANTAPUR,Arhar/Tur,2001-02,Rabi,5,Hectare,1,Tonnes,0.2
+Andhra Pradesh,ANANTAPUR,Arhar/Tur,2002-03,Kharif,33454,Hectare,6557,Tonnes,0.196000478
+Andhra Pradesh,ANANTAPUR,Arhar/Tur,2003-04,Kharif,41178,Hectare,6959,Tonnes,0.168998009
+Andhra Pradesh,CHITTOOR,Arhar/Tur,2001-02,Kharif,5403,Hectare,924,Tonnes,0.171016102
+Andhra Pradesh,CHITTOOR,Arhar/Tur,2002-03,Kharif,4113,Hectare,440,Tonnes,0.106977875
+Andhra Pradesh,CHITTOOR,Arhar/Tur,2002-03,Rabi,17,Hectare,2,Tonnes,0.117647059
+Andhra Pradesh,CHITTOOR,Arhar/Tur,2003-04,Kharif,8476,Hectare,636,Tonnes,0.075035394
+Andhra Pradesh,CHITTOOR,Arhar/Tur,2003-04,Rabi,10,Hectare,1,Tonnes,0.1
